@@ -40,6 +40,11 @@ a{
 }
 .displayflex{
     display: flex;
+    text-align:center ;
+    padding-left:300px;
+}
+.marginfix{
+    margin-left: 100px;
 }
 .colorblend{
     background:linear-gradient(to right,blue,rgb(0, 68, 255)), url(watch.png);
@@ -55,7 +60,6 @@ a{
     border-radius: 5px;
     color: white;
     font-weight: 700;
-    
 }
 .fontset{
     font-size: 40px;
