@@ -66,3 +66,41 @@ a{
     padding-top:20px;
     
 }
+.displayimage{
+    display: flex;
+}
+.subscribe{
+    text-decoration: none;
+    background-image:linear-gradient(blue,rgb(49, 77, 172));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+input{
+    padding: 15px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+}
+.flex{
+    display: flex;
+}
+.margin{
+    margin-left: 600px;
+}
+.margin1{
+    margin-left: 100px; 
+}
+footer{
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+}
+.displayflex{
+    display: flex;
+    padding: 50px;
+}
+.center{
+    text-align: center;
+
+}
