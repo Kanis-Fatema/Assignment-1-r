@@ -26,3 +26,39 @@ a{
 .positionset{
     float: right;
 }
+.displayset{
+    display: flex;
+}
+.floatset{
+    float: right;
+ padding-left: 25%;
+ font-size: 25px;
+}
+.alignset{
+    text-align: center;
+    font-size: 80px ;
+}
+.displayflex{
+    display: flex;
+}
+.colorblend{
+    background:linear-gradient(to right,blue,rgb(0, 68, 255)), url(watch.png);
+    background-blend-mode: overlay;
+    height: 250px;
+    text-align: center;
+    
+}
+.anchor{
+    text-decoration: none;
+    background-image:linear-gradient(blue,rgb(49, 77, 172));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
+}
+.fontset{
+    font-size: 40px;
+    padding-top:20px;
+    
+}
