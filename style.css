@@ -1,0 +1,28 @@
+.image-set{
+    background-image:url(banner3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    width:100%;
+}
+a{
+    text-decoration: none;
+    background-image:linear-gradient(red,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    margin-right: 15%;
+}
+.textalignset{
+    text-align: right;
+    color:rgb(24, 23, 23);
+    padding-right: 15%;
+}
+.another{
+    font-size: 40px; 
+    padding-top:40px ;
+}
+.positionset{
+    float: right;
+}
